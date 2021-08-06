@@ -1,0 +1,17 @@
+#+TITLE:README
+#+AUTHOR: Matthias DAVID
+#+MAIL: matthias@delta.re
+
+* Description
+  Ceci est un sqelette pour une application curses (en console) avec un menu et une ligne de commande a la Vim, tout ceci en utilisant Urwid une librairie de Python.
+
+* Copie d'écran
+  [[file:screenscrot.png]]
+
+* Dépendances
+** urwid-satext
+  La derniere version içi: ftp://ftp.goffi.org/urwid-satext/urwid_satext.tar.bz2 
+
+  Les anciennes versions: ftp://ftp.goffi.org/urwid-satext/ 
+
+  Code Source mercurial repository: http://repos.goffi.org/urwid-satext/
